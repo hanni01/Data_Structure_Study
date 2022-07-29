@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Á¤´äÁö
 
 void star(int x, int y, int n) {
 	if ((x / n) % 3 == 1 && (y / n) % 3 == 1) {

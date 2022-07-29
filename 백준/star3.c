@@ -1,4 +1,5 @@
 #include <stdio.h>
+//3번째 시도
 
 void star(int n, int x, int y);
 
@@ -14,7 +15,7 @@ int main(void) {
 }
 
 void star(int n, int x, int y) {
-	if ((x % 3 == 1 && y % 3 == 1) || (x / n == 1 && y / n == 1)) {
+	if ((x/n) % 3 == 1 && (y/n) % 3 == 1) {
 		printf(" ");
 	}
 	else {

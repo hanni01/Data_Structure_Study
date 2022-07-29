@@ -1,4 +1,5 @@
 #include <stdio.h>
+//첫 번째 시도
 
 int n;
 int k = 1;
