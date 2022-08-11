@@ -1,5 +1,7 @@
-﻿  star2.c
-c:\users\he308\onedrive\문서\visual studio 2017\projects\백준\백준\star2.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  cutline.c
+c:\users\he308\onedrive\문서\visual studio 2017\projects\백준\백준\cutline.c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\he308\onedrive\문서\visual studio 2017\projects\백준\백준\cutline.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
   백준.vcxproj -> C:\Users\he308\OneDrive\문서\Visual Studio 2017\Projects\백준\Debug\백준.exe
   백준.vcxproj -> C:\Users\he308\OneDrive\문서\Visual Studio 2017\Projects\백준\Debug\백준.pdb (Partial PDB)

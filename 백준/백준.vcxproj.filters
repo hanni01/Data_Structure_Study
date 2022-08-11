@@ -36,5 +36,20 @@
     <ClCompile Include="하노이.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="정렬1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="병합정렬.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="counting.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="counting초과.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cutline.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
